@@ -4,3 +4,13 @@ header{
     padding-bottom: 18px;
     text-align: center;
 }
+.descr{
+    padding: 20px 19px 20px 8px;
+}
+.code__php{
+    padding-top: 19px;
+    padding-bottom: 8px;
+    border: 1px solid #191970;
+    border-radius: 9px;
+    text-align: center;
+}
